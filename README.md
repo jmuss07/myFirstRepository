@@ -4,4 +4,4 @@
 [Here, have a link. It's an early/late birthday gift, enjoy](https://www.markdownguide.org/cheat-sheet/)
 
 
-![alt text](this is fine.jpg)
+![alt text](this-is-fine.jpg)
